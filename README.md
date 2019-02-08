@@ -1,4 +1,4 @@
-LINK FOR THE APP https://practical-kalam-1eb44d.netlify.com/
+LINK FOR THE APP https://svto-do.netlify.com/
 
 
 
