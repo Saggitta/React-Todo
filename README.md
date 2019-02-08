@@ -1,4 +1,4 @@
-LINK FOR THE APP https://svto-do.netlify.com/
+LINK FOR THE APP https://todo-sv.netlify.com/
 
 
 
